@@ -1,2 +1,2 @@
 ![](https://i.imgur.com/GoBNmLE.png)
-![](https://github-readme-stats.vercel.app/api?username=lncoognito&bg_color=0f0f0f&border_color=0f0f0f&text_color=ffffff&title_color=ffffff&icon_color=3388ff&show_icons=true&hide=stars,prs&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lncoognito&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F0F0F&ring=DD2727&currStreakLabel=DD2727&fire=DD2727)](https://git.io/streak-stats)
