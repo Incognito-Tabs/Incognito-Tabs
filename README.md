@@ -12,6 +12,10 @@
   
 <br />
 <br />
+          
+![GPU](https://img.shields.io/badge/AMD-Radeon_RX_590-ED1C24?style=for-the-badge&logo=amd&logoColor=white)        
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)        
+          
 <br />
 <br />
   
