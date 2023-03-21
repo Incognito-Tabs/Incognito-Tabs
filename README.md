@@ -5,8 +5,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/911566820710948954?bg=0F0F0F)](https://discord.com/users/911566820710948954)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lncoognito&layout=compact&cache_seconds=14400&border_color=0F0F0F&bg_color=0F0F0F&text_color=FFFFFF&title_color=FFFFFF)
-
 
 <br /> 
 <br />
