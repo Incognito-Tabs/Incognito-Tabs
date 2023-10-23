@@ -9,7 +9,7 @@
 <br />
 
 
-[![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![Lua](https://img.shields.io/badge/lua-%23272937.svg?style=for-the-badge&logo=lua&logoColor=4F68EE)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-383025?style=for-the-badge&logo=javascript&logoColor=FBB03B)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-1F2B33?style=for-the-badge&logo=typescript&logoColor=0077C6)]([https://www.javascript.com/](https://www.typescriptlang.org/))
 [![HTML](https://img.shields.io/badge/HTML-362622?style=for-the-badge&logo=html5&logoColor=E44D26)](https://html.spec.whatwg.org/)
