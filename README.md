@@ -8,6 +8,7 @@
   [![Discord Presence](https://lanyard.cnrad.dev/api/911566820710948954?bg=0F0F0F)](https://discord.com/users/911566820710948954?animated=true?idleMessage=Questioning%20Life)
   
   <br />
+  
   # Languages
   
   [![Lua](https://img.shields.io/badge/lua-%23272937.svg?style=for-the-badge&logo=lua&logoColor=4F68EE)](https://www.lua.org/)
