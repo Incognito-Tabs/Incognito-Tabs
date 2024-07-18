@@ -11,9 +11,14 @@
 [![Lua](https://img.shields.io/badge/lua-%23272937.svg?style=for-the-badge&logo=lua&logoColor=4F68EE)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-383025?style=for-the-badge&logo=javascript&logoColor=FBB03B)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-1F2B33?style=for-the-badge&logo=typescript&logoColor=0077C6)]([https://www.javascript.com/](https://www.typescriptlang.org/))
-
 [![HTML](https://img.shields.io/badge/HTML-362622?style=for-the-badge&logo=html5&logoColor=E44D26)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS-1F2C37?&style=for-the-badge&logo=css3&logoColor=0086F1)](https://www.w3.org/Style/CSS/Overview.en.html)
+
+<br />
+
+[![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white
+)](https://archlinux.org/)
 
 <br />
 
