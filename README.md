@@ -8,7 +8,7 @@
 
 <br />
 
-
+# Languages
 [![Lua](https://img.shields.io/badge/lua-%23272937.svg?style=for-the-badge&logo=lua&logoColor=4F68EE)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-383025?style=for-the-badge&logo=javascript&logoColor=FBB03B)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-1F2B33?style=for-the-badge&logo=typescript&logoColor=0077C6)]([https://www.javascript.com/](https://www.typescriptlang.org/))
@@ -18,5 +18,6 @@
 
 <br />
 
+# PC Specifications
 [![GPU](https://img.shields.io/badge/AMD-Radeon_RX_590_Nitro+-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.sapphiretech.com/en/consumer/nitro-rx-590-8g-g5-se_c) [![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amazon.com/AMD-Pinnacle-3-6GHz-Desktop-Processor/dp/B07KY8HK5J/ref=sr_1_1?crid=32SP8ETNOAGZR&keywords=AMD+Ryzen+5+2600x&qid=1679405391&sprefix=amd+ryzen+5+2600x%2Caps%2C207&sr=8-1)   
 </div>
