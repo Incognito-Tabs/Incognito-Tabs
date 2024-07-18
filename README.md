@@ -19,3 +19,7 @@
 
 [![GPU](https://img.shields.io/badge/AMD-Radeon_RX_590_Nitro+-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.sapphiretech.com/en/consumer/nitro-rx-590-8g-g5-se_c) [![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amazon.com/AMD-Pinnacle-3-6GHz-Desktop-Processor/dp/B07KY8HK5J/ref=sr_1_1?crid=32SP8ETNOAGZR&keywords=AMD+Ryzen+5+2600x&qid=1679405391&sprefix=amd+ryzen+5+2600x%2Caps%2C207&sr=8-1)   
 </div>
+
+<br />
+
+[![KOFI](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W010OINI)
