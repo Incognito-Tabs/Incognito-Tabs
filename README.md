@@ -14,7 +14,6 @@
 
   [![HTML](https://img.shields.io/badge/HTML-362622?style=for-the-badge&logo=html5&logoColor=E44D26)](https://html.spec.whatwg.org/)
   [![CSS](https://img.shields.io/badge/CSS-1F2C37?&style=for-the-badge&logo=css3&logoColor=0086F1)](https://www.w3.org/Style/CSS/Overview.en.html)
-
   </br>
   
   ### Computer Specifications
