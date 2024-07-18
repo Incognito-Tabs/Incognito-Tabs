@@ -18,7 +18,8 @@
 
 <br />
 
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=lncoognito&right_color=0F0F0F&left_color=191919) ![Years](https://img.shields.io/badge/4%20years-FFFFFF?logo=lua&label=Developer&labelColor=0F0F0F&color=191919)
+![Visits](![](https://komarev.com/ghpvc/?username=lncoognito&color=0F0F0F)) 
+![Years](https://img.shields.io/badge/4%20years-FFFFFF?logo=lua&label=Developer&labelColor=0F0F0F&color=191919)
 
 <br />
 
