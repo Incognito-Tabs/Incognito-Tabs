@@ -3,7 +3,7 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=lncoognito&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F0F0F&ring=DD2727&currStreakLabel=DD2727&fire=DD2727)
 
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=lncoognito&bg_color=0F0F0F&text_color=FFFFFF&hide_border=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=lncoognito&bg_color=0F0F0F&text_color=FFFFFF&hide_border=true&include_all_commits=true&rank_icon=github&text_bold=true&number_format=short)
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/911566820710948954?bg=0F0F0F)](https://discord.com/users/911566820710948954?animated=true?idleMessage=Questioning%20Life)
   
