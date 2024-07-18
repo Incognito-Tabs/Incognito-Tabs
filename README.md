@@ -5,7 +5,7 @@
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/911566820710948954?bg=0F0F0F)](https://discord.com/users/911566820710948954?animated=true?idleMessage=Questioning%20Life)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lncoognito&bg_color=0F0F0F&text_color=FFFFFF)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lncoognito&bg_color=0F0F0F&text_color=FFFFFF&hide_border=true)
   
   <br />
   
