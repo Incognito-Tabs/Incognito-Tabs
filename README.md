@@ -17,6 +17,6 @@
   [![GPU](https://img.shields.io/badge/AMD-Radeon_RX_590_Nitro+-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.sapphiretech.com/en/consumer/nitro-rx-590-8g-g5-se_c)
   [![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amazon.com/AMD-Pinnacle-3-6GHz-Desktop-Processor/dp/B07KY8HK5J/ref=sr_1_1?crid=32SP8ETNOAGZR&keywords=AMD+Ryzen+5+2600x&qid=1679405391&sprefix=amd+ryzen+5+2600x%2Caps%2C207&sr=8-1)</br>
   [![WINDOWS](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-  [![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+  [![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)</br>
   [![PLAYSTATION](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)
 </div>
