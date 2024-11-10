@@ -20,5 +20,5 @@
   [![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)</br>
   [![PLAYSTATION](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/)
 
-  ![COUNTER](https://count.getloli.com/get/@Incognito-Tabs?theme=rule34)
+  ![COUNTER](https://count.getloli.com/get/@Incognito-Tabs?theme=sketch-1)
 </div>
