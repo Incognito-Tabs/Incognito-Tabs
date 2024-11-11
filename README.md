@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![COUNTER](https://count.getloli.com/get/@Incognito-Tabs?theme=sketch-1)
+  ![COUNTER](https://count.getloli.com/get/@Incognito-Tabs?theme=rule34)
   
   <img src="https://i.imgur.com/kASrHGN.png" alt="Banner" />
   
